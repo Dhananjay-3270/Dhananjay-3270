@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
-<h3 align="center">Hi, I'm Dhananjay Shinde 👋 I'm a Front-end Developer with a passion for creating clean, modular, and efficient code while building responsive and user-friendly applications. I specialize in JavaScript, React.js, Next.js and modern frontend technologies, always striving to deliver high-quality web experiences. Here’s a bit more about me:</h3>
-
+<h3 align="center">Hi, I'm Dhananjay Shinde 👋 I'm a Front-end Developer with a passion for creating clean, modular, and efficient code while building responsive and user-friendly applications. I specialize in JavaScript, React.js, Next.js and modern frontend technologies, always striving to deliver high-quality web experiences.</h3>
+<h4>Here’s a bit more about me:</h4>
+🔧 Skills & Expertise
+Frontend Development: React.js, Next.js, HTML5, CSS3, Bootstrap 5, Tailwind CSS
+JavaScript (ES6+): Leveraging modern JS features like destructuring, spread/rest operators, arrow functions, and promises.
+State Management: Redux, React Hooks
+Backend: RESTful APIs, SQL, NoSQL databases
+Tools & Platforms: Git, GitHub, Jira, Jenkins, Visual Studio Code
+Real-time Applications: Experience with Socket.io and WebSockets for real-time collaboration features.
 - 👨‍💻 All of my projects are available at [https://github.com/Dhananjay-3270](https://github.com/Dhananjay-3270)
 
 - 📫 How to reach me **shinde3270@gmail.com**
