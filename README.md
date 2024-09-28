@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">Hi, I'm Dhananjay Shinde 👋 I'm a Front-end Developer with a passion for creating clean, modular, and efficient code while building responsive and user-friendly applications. I specialize in JavaScript, React.js, Next.js and modern frontend technologies, always striving to deliver high-quality web experiences.</h3>
 <h4>Here’s a bit more about me:</h4>
-🔧 Skills & Expertise
-<h2>Frontend Development: React.js, Next.js, HTML5, CSS3, Bootstrap 5, Tailwind CSS </h2> 
-<h2> JavaScript (ES6+): Leveraging modern JS features like destructuring, spread/rest operators, arrow functions, and promises. </h2>
-<h2>State Management: Redux, React Hooks</h2> 
-<h2> Backend: RESTful APIs, SQL, NoSQL databases</h2>
-<h2>Tools & Platforms: Git, GitHub, Jira, Jenkins, Visual Studio Code </h2>
-<h2>Real-time Applications: Experience with Socket.io and WebSockets for real-time collaboration features.</h2>
+<h2> 🔧 Skills & Expertise </h2>
+<h3>Frontend Development: React.js, Next.js, HTML5, CSS3, Bootstrap 5, Tailwind CSS </h3> 
+<h3> JavaScript (ES6+): Leveraging modern JS features like destructuring, spread/rest operators, arrow functions, and promises. </h3>
+<h3>State Management: Redux, React Hooks</h3> 
+<h3> Backend: RESTful APIs, SQL, NoSQL databases</h3>
+<h3>Tools & Platforms: Git, GitHub, Jira, Jenkins, Visual Studio Code </h3>
+<h3>Real-time Applications: Experience with Socket.io and WebSockets for real-time collaboration features.</h3>
 - 👨‍💻 All of my projects are available at [https://github.com/Dhananjay-3270](https://github.com/Dhananjay-3270)
 
 - 📫 How to reach me **shinde3270@gmail.com**
