@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
-<h3 align="center">Memory updated Here's the updated introduction for your GitHub profile README: Hi, I'm [Your Name] 👋 I'm a Front-end Developer with a passion for creating clean, modular, and efficient code while building responsive and user-friendly applications. I specialize in JavaScript, React.js, Next.js and modern frontend technologies, always striving to deliver high-quality web experiences. Here’s a bit more about me:</h3>
+<h3 align="center">Hi, I'm Dhananjay Shinde 👋 I'm a Front-end Developer with a passion for creating clean, modular, and efficient code while building responsive and user-friendly applications. I specialize in JavaScript, React.js, Next.js and modern frontend technologies, always striving to deliver high-quality web experiences. Here’s a bit more about me:</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhananjay-3270](https://github.com/Dhananjay-3270)
 
